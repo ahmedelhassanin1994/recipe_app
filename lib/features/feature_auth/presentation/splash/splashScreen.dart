@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 import 'package:lottie/lottie.dart';
 import 'package:flutter/material.dart';
 import 'package:mvvm_project/core/app_prefs.dart';
@@ -80,15 +81,13 @@ class _SplashScreen extends State<SplashScreen> {
 
     // TODO: implement build
     return Scaffold(
-      backgroundColor: ColorManager.primary,
       body: Center(
-          child:  GifView.asset(
-            ImageAssets.Intro,
-
-            frameRate: 30, // default is 15 FPS
-          )
+        child:  SvgPicture.asset(ImageAssets.splashLogo,
+            width: AppSize.s100.w,
+            height: AppSize.s100.h,
+            fit: BoxFit.fill,
+            semanticsLabel: 'A red up arrow'),
       ),
-
     );
 
   }

@@ -4,13 +4,12 @@ const String IMAGE_PATH="assets/images";
 const String JSON_PATH="assets/json";
 
 class ImageAssets{
-  static const splashLogo="$IMAGE_PATH/logo.png";
+  static const splashLogo="$IMAGE_PATH/logo.svg";
   static const onbording_logo1="$IMAGE_PATH/slider.png";
   static const onbording_logo2="$IMAGE_PATH/slider2.png";
   static const onbording_logo3="$IMAGE_PATH/slider3.png";
   static const onbording_logo4="$IMAGE_PATH/slider4.png";
   static const icon_slider="$IMAGE_PATH/icon_slider.svg";
-  static const enter_otp="$IMAGE_PATH/enter_otp.svg";
 
   static const circleIcon="$IMAGE_PATH/circle_icon.svg";
   static const leftArrow="$IMAGE_PATH/left_arrow.svg";
