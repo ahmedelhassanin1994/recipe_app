@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.597" height="18" viewBox="0 0 16.597 18">
+  <g id="user_icon" transform="translate(0.75 0.75)">
+    <path id="message-mid-text-svgrepo-com" d="M1.5,0H15a1.5,1.5,0,0,1,1.5,1.5v9c0,.828-2.738.512-3.567.512L7.855,7.457,3.431,11.012C2.6,11.012,0,11.328,0,10.5v-9A1.5,1.5,0,0,1,1.5,0Z" transform="translate(0 16.5) rotate(-90)" fill="none" stroke="#513c5b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="arrow-right-svgrepo-com" d="M11.087,8.25l2.41,2.41m0,0-2.41,2.41m2.41-2.41H6.75" transform="translate(1.289 -2.072)" fill="none" stroke="#513c5b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

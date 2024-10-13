@@ -1,0 +1,22 @@
+[
+  {
+    "padding":15,
+    "image":"https://firebasestorage.googleapis.com/v0/b/dimstore-79ed4.appspot.com/o/photo-1492707892479-7bc8d5a4ee93.avif?alt=media&token=a023d608-1903-4c0b-bb97-4fbecc3e29fe",
+    "category":187
+  },
+  {
+    "category":141,
+    "image":"https://firebasestorage.googleapis.com/v0/b/dimstore-79ed4.appspot.com/o/freestocks-_3Q3tsJ01nc-unsplash.jpg?alt=media&token=ecf324c1-27f3-4576-be13-58ba1c87e9d7",
+    "padding":15
+  },
+  {
+    "image":"https://firebasestorage.googleapis.com/v0/b/dimstore-79ed4.appspot.com/o/photo-1445205170230-053b83016050.avif?alt=media&token=fef04f43-8aca-45d2-92c0-86e68112b9d9",
+    "category":62,
+    "padding":15
+  },
+  {
+    "image":"https://firebasestorage.googleapis.com/v0/b/dimstore-79ed4.appspot.com/o/premium_photo-1683121269108-1bd195cd18cf.avif?alt=media&token=f751a690-38aa-4b34-8554-81a9bd49c0f3",
+    "category":62,
+    "padding":15
+  }
+]
